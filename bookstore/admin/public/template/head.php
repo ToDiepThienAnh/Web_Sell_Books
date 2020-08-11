@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Vườn Ngôn Từ - Admin CP</title>
+    <title>Book Garden - Admin CP</title>
 
     <link href="public/css/jquery-ui.css" rel="stylesheet">
 

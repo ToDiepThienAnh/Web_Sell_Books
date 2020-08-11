@@ -95,7 +95,7 @@ img {
 }
 
 /* Start main Header css */
-#main-header { background:url(../images/header-bg.jpg) repeat; padding:40px 0 0; margin:0 0 75px; }
+#main-header { background:url(../images/header-bg2.jpg) repeat; padding:0px 0 0; margin:0 0 75px; }
 #logo { margin:0; float:left; }
 #logo a { display:block; height:100%; }
 #main-header input[type="text"] { font-size:13px; color:#bdbdbd; height:26px; float:left; margin:0; }

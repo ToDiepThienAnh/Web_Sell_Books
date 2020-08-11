@@ -2,7 +2,7 @@
     <section class="container-fluid container">
       <section class="row-fluid">
         <section class="span4">
-          <h1 id="logo"> <a href="index.php"><img src="public/images/logo.png" /></a> </h1>
+          <h1 id="logo"> <a href="index.php"><img src="public/images/logo3.png" /></a> </h1>
         </section>
         <section class="span8">
           <div class="search-bar">

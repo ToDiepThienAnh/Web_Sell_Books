@@ -3,7 +3,7 @@
       <section class="row-fluid">
         <section class="span6">
           <ul class="top-nav">
-            <li><a href="index.php">Vườn Tri Thức</a></li>
+            <li><a href="index.php">Book Garden</a></li>
             <li><a href="contact.php">Liên hệ</a></li>
           </ul>
         </section>

@@ -24,11 +24,11 @@ include('public/template/head.php');
 	include('public/template/footer_top_1.php');
 	?>
 	<!-- End Footer Top 1 -->
-    <!-- Start Footer Top 2 -->
+    <!-- Start Footer Top 2
   	<?php
 	include('public/template/footer_top_2.php');
 	?>
-  	<!-- End Footer Top 2 -->
+  	End Footer Top 2 -->
 </div>
 <!-- End Main Wrapper -->
 <!-- JS Files Start -->
