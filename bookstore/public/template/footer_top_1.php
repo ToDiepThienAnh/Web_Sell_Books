@@ -8,12 +8,10 @@
           <input name="" type="submit" value="Đăng ký" class="sub-btn" />
         </figure>
         <figure class="span3">
-          <h4>Về Công Ty</h4>
+          <h4>Về Team</h4>
           <ul class="tweets-list">
-            <li><a href="#">Giới thiệu công ty</a></li>
-            <li><a href="#">Tuyển dụng</a></li>
-            <li><a href="#">Góc báo chí</a></li>
-            <li><a href="#">Chương trình đại lý</a></li>
+            <li><a href="https://www.facebook.com/thienanh1412">Tô Diệp Thiên Anh</a></li>
+            <li><a href="https://www.facebook.com/huanguyentankhoa">Hứa Nguyễn Tân Khoa</a></li>           
             <li><a href="#">Chính sách bảo mật</a></li>
             <li><a href="#">Điều khoản sử dụng</a></li>
             <li><a href="#"></a></li>

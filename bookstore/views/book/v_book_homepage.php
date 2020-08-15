@@ -33,7 +33,7 @@
         </section>
         <span class="slider-bottom"><img src="public/images/slider-bg.png" alt="Shadow"/></span> </section>
       <section class="span12 wellcome-msg m-bottom first">
-        <h2>WELCOME TO Vườn Ngôn Từ.</h2>
+        <h2>WELCOME TO BOOK GAREDEN.</h2>
         <p>Mở cánh cửa vào thế giới sách</p>
       </section>
     </section>
