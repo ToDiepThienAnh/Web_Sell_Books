@@ -1,4 +1,5 @@
 user admin : admin | 123456
 user customer : lyly| 123456
-pages Admin : http://localhost:81/bookstore/admin
+pages Admin : http://localhost/Web_Sell_Books/bookstore
+pages Trang chu: http://localhost/Web_Sell_Books/bookstore/admin
 hdsd: coppy source code vao localhost  [htdoc] doi voi xampp [www] do www doi voi wampp
