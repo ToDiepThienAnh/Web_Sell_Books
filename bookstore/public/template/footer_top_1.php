@@ -32,7 +32,8 @@
         <figure class="span3">
           <h4>Địa chỉ</h4>
             <p>Khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh</p>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62714.81226808522!2d106.63183937910156!3d10.759452500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ee1ff354f3f%3A0x18f40d9f2c7f8e18!2zVHJ1bmcgVMOibSBUaW4gSOG7jWMgLSDEkEggS2hvYSBI4buNYyBU4buxIE5oacOqbiAoQ1MyKQ!5e0!3m2!1svi!2s!4v1498377688430" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d125392.55373495536!2d106.67950428703251!3d10.84820348678763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d10.829824!2d106.69260799999999!4m5!1s0x317527587e9ad5bf%3A0xafa66f9c8be3c91!2zxJHhuqFpIGjhu41jIGPDtG5nIG5naOG7hyB0aMO0bmcgdGlu!3m2!1d10.8699184!2d106.8038081!5e0!3m2!1sen!2s!4v1597544017694!5m2!1sen!2s" h="600" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+            
         </figure>
       </section>
     </section>
